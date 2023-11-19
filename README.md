@@ -1,3 +1,5 @@
+An attempt to get this working for Foundry Version 11
+
 # GM Secret Block
 
 Adds a type of formatting block to text editors that only GMs can see and edit.
